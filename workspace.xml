@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a397eee7-45b1-4301-915b-b99538c76abc" name="Changes" comment="add db" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Dz6DPGhdQGRxAeKkW6lPuczLTS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joy\PycharmProjects\kanban-board-IV" />
+      <recent name="C:\Users\Joy\PycharmProjects\kanban-board-IV\app" />
+      <recent name="C:\Users\Joy\PycharmProjects\kanban-board-IV\app\static" />
+      <recent name="C:\Users\Joy\PycharmProjects\kanban-board-IV\app\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joy\PycharmProjects\kanban-board-IV" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kanban-board-IV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a397eee7-45b1-4301-915b-b99538c76abc" name="Changes" comment="" />
+      <created>1661689445924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661689445924</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit v2">
+      <created>1662160720982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662160720982</updated>
+    </task>
+    <task id="LOCAL-00002" summary="populate .gitignore file">
+      <created>1662160822764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662160822764</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implement gunicorn">
+      <created>1662161652278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662161652278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="re-write requirements.txt">
+      <created>1662162307559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662162307559</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update requirements.txt">
+      <created>1662163244780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662163244780</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update requirements.txt - missed out a line">
+      <created>1662163391594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662163391594</updated>
+    </task>
+    <task id="LOCAL-00007" summary="....">
+      <created>1662164098980</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662164098980</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change name 'app' to 'my_app'">
+      <created>1662164604149</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662164604149</updated>
+    </task>
+    <task id="LOCAL-00009" summary="missed out change from 'app' to 'my_app'">
+      <created>1662199756092</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662199756092</updated>
+    </task>
+    <task id="LOCAL-00010" summary="move to postgres db">
+      <created>1662200473530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662200473530</updated>
+    </task>
+    <task id="LOCAL-00011" summary="received error: sqlalchemy.exc.DataError: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(80)&#10;&#10;remove length constraint in Password column">
+      <created>1662201305657</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201305657</updated>
+    </task>
+    <task id="LOCAL-00012" summary="string -&gt; varchar(255)">
+      <created>1662201683357</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662201683357</updated>
+    </task>
+    <task id="LOCAL-00013" summary="create db">
+      <created>1662203937040</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662203937041</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add db">
+      <created>1662204195182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662204195182</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit v2" />
+    <MESSAGE value="populate .gitignore file" />
+    <MESSAGE value="implement gunicorn" />
+    <MESSAGE value="re-write requirements.txt" />
+    <MESSAGE value="update requirements.txt" />
+    <MESSAGE value="update requirements.txt - missed out a line" />
+    <MESSAGE value="...." />
+    <MESSAGE value="change name 'app' to 'my_app'" />
+    <MESSAGE value="missed out change from 'app' to 'my_app'" />
+    <MESSAGE value="move to postgres db" />
+    <MESSAGE value="received error: sqlalchemy.exc.DataError: (psycopg2.errors.StringDataRightTruncation) value too long for type character varying(80)&#10;&#10;remove length constraint in Password column" />
+    <MESSAGE value="string -&gt; varchar(255)" />
+    <MESSAGE value="create db" />
+    <MESSAGE value="add db" />
+    <option name="LAST_COMMIT_MESSAGE" value="add db" />
+  </component>
+</project>
